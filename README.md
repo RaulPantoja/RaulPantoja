@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estoy estudiando en I.E.S Gran Capitán.<br>🤝 Me gustaría trabajar en un videojuego.<br>🌱 Estoy aprendiendo HTML, CSS, JavaScript y PHP.<br>⚡ Primer juego hecho con Scratch.
+🔭 Grado Superior de Desarrollo de Aplicaciones Web terminado en I.E.S Gran Capitan.<br>🤝 Me gustaría trabajar en un videojuego.<br>🌱 Estoy aprendiendo HTML, CSS, JavaScript y PHP.<br>⚡ Primer juego hecho con Scratch.
 
 
 ## 🌐 Socials:
